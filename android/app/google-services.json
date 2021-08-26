@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "573186621876",
+    "project_id": "mychat-fd564",
+    "storage_bucket": "mychat-fd564.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573186621876:android:5d3ebf256d8f6dd5fb32e1",
+        "android_client_info": {
+          "package_name": "com.example.fluuter_androidstudio_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573186621876-q696hvb52bbfqchaedust3rqs3ihmv2v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMKi6cyzyDx-OAEeitEvO3h5-AW7gPlTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573186621876-q696hvb52bbfqchaedust3rqs3ihmv2v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
