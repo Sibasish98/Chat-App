@@ -20,4 +20,4 @@ It uses Firebase authentication to sign in and sign up for users. It uses Firest
 
 
 
-**Stay tunned 🤓 **
+**Stay tunned 🤓**
